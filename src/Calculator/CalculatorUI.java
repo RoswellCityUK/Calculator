@@ -66,6 +66,7 @@ public class CalculatorUI extends javax.swing.JFrame {
         lblAuthor = new javax.swing.JLabel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Calculator");
         setResizable(false);
 
         pnlResult.setBackground(new java.awt.Color(0, 0, 0));
